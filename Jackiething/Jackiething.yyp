@@ -35,8 +35,11 @@
   },
   "name":"Jackiething",
   "resources":[
+    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sTileset","path":"sprites/sTileset/sTileset.yy",},},
     {"id":{"name":"sTitleScreen","path":"sprites/sTitleScreen/sTitleScreen.yy",},},
+    {"id":{"name":"tsJackiething","path":"tilesets/tsJackiething/tsJackiething.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
